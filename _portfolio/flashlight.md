@@ -16,12 +16,12 @@ Designed and implemented an embedded system to control an RGBW LED flashlight us
 
   <div style="flex: 1; text-align: center;">
     <img src="/images/flashlight/flashlight-schematic.png" width="100%">
-    <p>Schematic 1</p>
+    <p>Schematic </p>
   </div>
 
   <div style="flex: 1; text-align: center;">
     <img src="/images/flashlight/flashlight-schematic2.png" width="100%">
-    <p>Schematic 2</p>
+    <p>LED Driver Circuit</p>
   </div>
 
 </div>
