@@ -1,5 +1,6 @@
 ---
 title: "Programmable Flashlight"
+excerpt: "Smart Flashlight with mutliple colors, strobscope function, color mixing, and more"
 collection: portfolio
 ---
 
