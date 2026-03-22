@@ -5,6 +5,19 @@ collection: portfolio
 
 ## Overview
 Designed and implemented an embedded system to control an RGBW LED flashlight using microcontroller-based PWM and user input.
+## Images
+
+### Finished Flashlight
+![Flashlight Photo](images/flashlight/flashlight-photo.png)
+
+### Schematic Design
+![Schematic Diagram](images/flashlight/flashlight-schematic.png)
+
+### PCB layout
+![Flashlight Photo](images/flashlight/flashlight-layout.png)
+
+### Assembled PCB
+![PCB Layout](images/flashlight/flashlight-pcb.png)
 
 ## Key Contributions
 - Developed firmware in C for LED control  
@@ -15,7 +28,7 @@ Designed and implemented an embedded system to control an RGBW LED flashlight us
 ## Technical Details
 - Language: C  
 - Concepts: PWM, embedded systems, hardware-software integration  
-- Components: Microcontroller, RGBW LED, OLED display  
+- Components: XIAO ESP32 c6 microcontroller, RGBW LED, High power LED, OLED display  
 
 ## Project Link
 [View on GitHub](https://github.com/psu-epl/mcu_flashlight)
