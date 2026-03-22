@@ -5,14 +5,14 @@ collection: portfolio
 ---
 
 ## Overview
-Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
+I work in the firmware and electrical teams Contributeing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
 
 ---
 
 ## Summer Undergraduate Research
 
 ### Overview
-Participated in undergraduate research focused on embedded systems and real-time operating systems in an aerospace context.
+Participated in undergraduate research researching the Zephyr RTOS to program the NXP MCXN947 dev board. The MCU of this dev board would then be intergrated on multiple cards of the next CubeSat project, Oresat1. I presented this research at the PSU undergraduare research Sypnosium. 
 
 ### Contributions
 - Researched and worked with Zephyr RTOS for embedded applications  
@@ -24,6 +24,9 @@ Participated in undergraduate research focused on embedded systems and real-time
 - How real-world aerospace systems are structured  
 - The role of RTOS in embedded systems  
 - How to contribute to large-scale engineering projects  
+
+### Poster
+![Research Poster Photo](/images/psas/flashlight-photo.png)
 
 ---
 
