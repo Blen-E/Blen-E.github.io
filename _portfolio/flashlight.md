@@ -4,7 +4,10 @@ collection: portfolio
 ---
 
 ## Overview
-Designed and implemented an embedded system to control an RGBW LED flashlight using microcontroller-based PWM and user input.
+Our project develops a programmable flashlight that is designed to be more versatile and functional than a standard flashlight. Unlike typical flashlights, this device allows for the user to adjust brightness levels, switch between multiple colors, operate in strobe mode as a stroboscope, and output morse code.
+The goal of this flashlight is to create a compact, user-friendly tool that can adapt to different environments and needs, such as emergency situations, measuring rotating objects, outdoor activities, and general everyday use. By integrating programmable controls, the flashlight provides flexibility without needing multiple other devices. 
+The current prototype represents the core features of the design, including adjustable brightness, selectable colors, and a strobe mode. One key strength of this design is its flexibility. While it already achieves its primary specifications, the programmability of this product allows for additional features to be incorporated in the future.
+
 ## Images
 
 ### Finished Flashlight
@@ -45,8 +48,8 @@ Designed and implemented an embedded system to control an RGBW LED flashlight us
 ## Key Contributions
 - Developed firmware in C for LED control  
 - Implemented PWM signals for color mixing  
-- Integrated OLED display for user interaction  
-- Used Git for version control and collaboration  
+- Designed and Assempled PCBI
+- Used Git for version control and collaboration of PCB
 
 ## Technical Details
 - Language: C  
