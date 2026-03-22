@@ -1,5 +1,5 @@
 ---
-title: "RGBW Flashlight System"
+title: "Programmable Flashlight"
 collection: portfolio
 ---
 
