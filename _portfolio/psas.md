@@ -26,7 +26,7 @@ Participated in undergraduate research researching the Zephyr RTOS to program th
 - How to contribute to large-scale engineering projects  
 
 ### Poster
-![Research Poster Photo](/images/psas/flashlight-photo.png)
+![Research Poster Photo](/images/psas/undergradresearch.png)
 
 ---
 
