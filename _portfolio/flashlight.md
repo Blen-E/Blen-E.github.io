@@ -8,16 +8,16 @@ Designed and implemented an embedded system to control an RGBW LED flashlight us
 ## Images
 
 ### Finished Flashlight
-![Flashlight Photo](images/flashlight/flashlight-photo.png)
+![Flashlight Photo](/images/flashlight/flashlight-photo.png)
 
 ### Schematic Design
-![Schematic Diagram](images/flashlight/flashlight-schematic.png)
+![Schematic Diagram]/(images/flashlight/flashlight-schematic.png)
 
 ### PCB layout
-![Flashlight Photo](images/flashlight/flashlight-layout.png)
+![Flashlight Photo](/images/flashlight/flashlight-layout.png)
 
 ### Assembled PCB
-![PCB Layout](images/flashlight/flashlight-pcb.png)
+![PCB Layout](/images/flashlight/flashlight-pcb.png)
 
 ## Key Contributions
 - Developed firmware in C for LED control  
