@@ -1,5 +1,6 @@
 ---
 title: "Portland State Aerospace Society (PSAS)"
+excerpt: "Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment."
 collection: portfolio
 ---
 
