@@ -40,4 +40,4 @@ A "flatsat" is a an flat or open satellite that allows to conduct system integra
 - Schematic and PCB layout
 - Research on Oresat connectors
 - Documentation via git   
----
+
