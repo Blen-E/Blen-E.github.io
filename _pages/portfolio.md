@@ -1,6 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Projects"
-collection: portfolio
 permalink: /portfolio/
 ---
