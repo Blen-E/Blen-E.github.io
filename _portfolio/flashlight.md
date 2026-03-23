@@ -1,6 +1,5 @@
 ---
 title: "Programmable Flashlight"
-![Flashlight](/images/flashlight/flashlight-photo.png)
 excerpt: "Smart Flashlight with mutliple colors, strobscope function, color mixing, and more"
 collection: portfolio
 ---
