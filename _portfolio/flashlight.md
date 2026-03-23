@@ -67,5 +67,4 @@ Power is supplied by a Li-ion battery (3.2-4.2 nominal V), which passes through 
 - Concepts: LED drivers, firmware, KiCAD, Audrino IDE
 - Components: XIAO ESP32 c6 microcontroller, RGBW LED, High power LED, OLED display, PCB 
 
-## Project Link
-[View on GitHub](https://github.com/psu-epl/mcu_flashlight)
+
