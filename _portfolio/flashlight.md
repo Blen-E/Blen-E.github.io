@@ -1,7 +1,9 @@
 ---
-title: "Programmable Flashlight"
-excerpt: "Smart Flashlight with mutliple colors, strobscope function, color mixing, and more"
+title: "Flashlight Project"
 collection: portfolio
+excerpt: "Custom PCB flashlight design with hardware and system integration."
+header:
+  teaser: /images/flashlight/flashlight-photo.png
 ---
 
 ## Overview
