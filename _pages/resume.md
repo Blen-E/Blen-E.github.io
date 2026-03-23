@@ -1,4 +1,8 @@
-## Resume
+---
+layout: single
+title: "Resume"
+permalink: /resume/
+---
 
 [Download Resume (PDF)](/files/resume.pdf)
 
