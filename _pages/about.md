@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About Blen Ermias"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi, I’m Blen Ermias, a Electrical Engineering student with a strong interest in embedded systems, firmware development, and aersoapce.
+I am a electrical engineering student with a strong interest in embedded systems, firmware development, and aersoapce.
 
 I have experience working with C programming, PCB design, circuit design, and hardware-software integration through hands-on engineering projects. I’ve also contributed to real-world engineering systems as part of the Portland State Aerospace Society (PSAS), where I worked on embedded systems and flight software concepts.
 
