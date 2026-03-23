@@ -1,12 +1,10 @@
----
-layout: single
-title: "Resume"
-permalink: /resume/
----
+## Resume
 
-<p>
-  <a href="/files/resume.pdf" download>Download Resume (PDF)</a>
-</p>
+[Download Resume (PDF)](/files/resume.pdf)
 
-<iframe src="/files/resume.pdf" width="100%" height="800px">
+<iframe 
+  src="/files/resume.pdf" 
+  width="100%" 
+  height="700px" 
+  style="border:1px solid #ccc;">
 </iframe>
