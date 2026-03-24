@@ -10,7 +10,7 @@ author_profile: true
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
 
 {% for post in site.portfolio %}
-  <div style="border: 1px solid #e5e5e5; border-radius: 10px; padding: 15px;">
+  <div class="grid-card" style="border: 1px solid #e5e5e5; border-radius: 10px; padding: 15px;">
 
     <img src="{{ post.image }}" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
 
