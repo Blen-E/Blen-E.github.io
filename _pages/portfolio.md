@@ -7,22 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="grid__wrapper">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+
 {% for post in site.portfolio %}
-  <div class="grid__item">
-    <article class="archive__item">
-      
-      <div class="archive__item-teaser">
-        <img src="{{ post.image }}" alt="">
-      </div>
+  <div style="border: 1px solid #e5e5e5; border-radius: 10px; padding: 15px;">
 
-      <h2 class="archive__item-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
+    <img src="{{ post.image }}" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
 
-      <p>{{ post.excerpt }}</p>
+    <h2 style="margin-top: 15px;">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
 
-    </article>
+    <p>{{ post.excerpt }}</p>
+
   </div>
 {% endfor %}
+
 </div>
