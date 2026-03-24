@@ -7,22 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="grid__wrapper">
 {% for post in site.portfolio %}
-  <div class="grid__item">
-    <article class="archive__item">
-      
-      <div class="archive__item-teaser">
-        <img src="{{ post.image }}" alt="">
-      </div>
+  <div style="margin-bottom: 40px;">
 
-      <h2 class="archive__item-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
+    <img src="{{ post.image }}" style="width: 100%; max-width: 500px; border-radius: 8px;">
 
-      <p>{{ post.excerpt }}</p>
+    <h2>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
 
-    </article>
+    <p>{{ post.excerpt }}</p>
+
   </div>
 {% endfor %}
-</div>
