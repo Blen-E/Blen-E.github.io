@@ -49,3 +49,9 @@
   transform: translateY(-6px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.1);
 }
+:root {
+  --accent-color: #4f46e5;   /* nice modern indigo */
+  --accent-hover: #4338ca;
+  --text-main: #1f2937;
+  --text-muted: #6b7280;
+}
