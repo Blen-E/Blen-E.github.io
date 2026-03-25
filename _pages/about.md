@@ -15,8 +15,6 @@ I’m a Electrical Engineering student focused on embedded systems, PCB design, 
 
 <br>
 
----
-
 ## 🔧 Technical Interests
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -31,8 +29,6 @@ I’m a Electrical Engineering student focused on embedded systems, PCB design, 
 
 <br>
 
----
-
 ## 🚀 Experience
 
 ### Portland State Aerospace Society (PSAS)
@@ -45,12 +41,10 @@ Designed and built a programmable PCB flashlight with features including adjusta
 
 <br>
 
----
-
 ## 🎯 Goals
 
 I’m interested in building reliable embedded and aerospace systems, and I’m actively seeking opportunities to apply my skills in real-world engineering environments.
 
 <br>
 
----
+
