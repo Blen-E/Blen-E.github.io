@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "About"
 author_profile: true
@@ -9,10 +10,10 @@ redirect_from:
 
 <div class="hero-section">
 
-  <h1> Hello, I'm Blen Ermias </h1>
+  <h1>Hello, I'm Blen Ermias</h1>
 
   <p class="hero-subtitle">
-    ECE Engineering Student • Embedded Systems • Aerospace
+    Electrical Engineering Student • Embedded Systems • Aerospace
   </p>
 
 </div>
