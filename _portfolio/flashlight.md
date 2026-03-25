@@ -67,7 +67,7 @@ Power is supplied by a Li-ion battery (3.2-4.2 nominal V), which passes through 
 ---
 
 ## Key Contributions
-- Designed and Assembled PCB using KiCAD
+- Designed and assembled PCB using KiCAD
 - Implemented color mixing function 
 - Used Git for version control and collaboration of PCB
 
