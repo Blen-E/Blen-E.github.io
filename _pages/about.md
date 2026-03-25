@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <div class="hero-section">
 
   <h1> Hello, I'm Blen Ermias </h1>
@@ -7,14 +16,6 @@
   </p>
 
 </div>
----
-permalink: /
-title: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## About Me
 
