@@ -10,6 +10,7 @@ redirect_from:
 
 <div class="hero-section">
 
+
   <h1>Hello, I'm Blen Ermias</h1>
 
   <p class="hero-subtitle">
@@ -21,7 +22,7 @@ redirect_from:
 ## About Me
 
 <div style="font-size: 1.1em; max-width: 700px;">
-I’m a Electrical Engineering student focused on embedded systems, PCB design, and aerospace applications. I enjoy building systems that integrate both hardware and software, with a focus on reliability and real-world impact.
+I’m a Electrical Engineering student interested on embedded systems, PCB design, and aerospace applications. I am interested in building systems that integrate both hardware and software in various applications. 
 </div>
 
 <br>
@@ -43,10 +44,13 @@ I’m a Electrical Engineering student focused on embedded systems, PCB design, 
 ## 🚀 Experience
 
 ### Portland State Aerospace Society (PSAS)
-Worked on embedded systems and hardware development for an open-source CubeSat project, focusing on firmware concepts, system integration, and collaborative engineering workflows.
+Worked on embedded systems and hardware development for an open-source CubeSat project, writing firmware, system integration, and collaborative engineering workflows.
 <br>
 ### Flashlight Project
 Designed and built a programmable PCB flashlight with features including adjustable brightness, color mixing, and strobe functionality.
+<br>
+### Weight Scale 
+Designed and built a programmable bathroom weight scale that measures weight in pounds and can be calibrated. 
 <br>
 ## 🎯 Goals
 I’m interested in building reliable embedded and aerospace systems, and I’m actively seeking opportunities to apply my skills in real-world engineering environments.
