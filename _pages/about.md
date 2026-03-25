@@ -1,3 +1,12 @@
+<div class="hero-section">
+
+  <h1> About me, Blen Ermias </h1>
+
+  <p class="hero-subtitle">
+    ECE Engineering Student • Embedded Systems • Aerospace
+  </p>
+
+</div>
 ---
 permalink: /
 title: "About"
