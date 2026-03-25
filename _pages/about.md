@@ -44,18 +44,12 @@ I’m a Electrical Engineering student focused on embedded systems, PCB design, 
 
 ### Portland State Aerospace Society (PSAS)
 Worked on embedded systems and hardware development for an open-source CubeSat project, focusing on firmware concepts, system integration, and collaborative engineering workflows.
-
 <br>
-
 ### Flashlight Project
 Designed and built a programmable PCB flashlight with features including adjustable brightness, color mixing, and strobe functionality.
-
 <br>
-
 ## 🎯 Goals
-
 I’m interested in building reliable embedded and aerospace systems, and I’m actively seeking opportunities to apply my skills in real-world engineering environments.
-
 <br>
 
 
