@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Resume
 
-[Download Resume (PDF)](/files/resume.pdf)
+[Download Resume (PDF)](/files/resume2.pdf)
 
 <br>
 
