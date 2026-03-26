@@ -130,26 +130,45 @@ h1, h2, h3 {
 .back-button:hover {
   text-decoration: underline;
 }
-/* 👩‍🎨 Animated Gradient Background */
+/* ============================= */
+/* Full-page animated gradient   */
+/* ============================= */
+
+/* 1️⃣ Remove default margins and ensure html/body cover the viewport */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background: transparent;
 }
 
-body {
+/* 2️⃣ Create full-screen fixed gradient behind everything */
+body::before {
+  content: "";
+  position: fixed;      /* Stay in place while scrolling */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;          /* Send behind all content */
   background: linear-gradient(270deg, #ff7e5f, #feb47b, #6a11cb, #2575fc);
   background-size: 400% 400%;
   animation: gradientMove 15s ease infinite;
 }
 
-/* Make sure content containers are transparent */
-main, section, div {
-  background-color: transparent;
+/* 3️⃣ Make sure sections, containers, and main content are transparent */
+main, section, div, header, footer {
+  background-color: transparent !important;
 }
 
+/* 4️⃣ Optional: Ensure main content fills viewport */
+main {
+  min-height: 100vh;
+}
+
+/* 5️⃣ Keyframes for smooth gradient animation */
 @keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
