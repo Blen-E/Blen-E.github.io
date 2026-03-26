@@ -131,7 +131,7 @@ h1, h2, h3 {
   text-decoration: underline;
 }
 /* ============================================================ */
-/* BLUE & PURPLE ANIMATED GRADIENT + WHITE CONTENT AREAS        */
+/* WHITE CONTENT AREAS        */
 /* ============================================================ */
 
 /* 1️⃣ Base Setup: Clear out default backgrounds */
@@ -141,44 +141,6 @@ html, body {
   background-color: white !important; /* Fallback */
 }
 
-/* 2️⃣ The Gradient Layer: Blue and Purple Palette */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: -10;
-  
-  /* Cool Technical Palette: Deep Blues and Purples */
-  background: linear-gradient(
-    270deg, 
-    #1a2a6c, /* Deep Midnight Blue */
-    #b21f1f, /* A hint of deep plum/purple */
-    #6a11cb, /* Vibrant Violet */
-    #2575fc, /* Bright Electric Blue */
-    #4facfe  /* Soft Sky Blue */
-  );
-  
-  background-size: 400% 400%;
-  animation: gradientMove 15s ease infinite;
-  pointer-events: none;
-}
-
-/* 3️⃣ Transparency Fix: Punch through the theme's solid layers */
-#main, 
-.page, 
-.wrapper, 
-.initial-content, 
-.archive,
-.sidebar,
-.page__footer,
-.masthead {
-  background: transparent !important;
-  background-color: transparent !important;
-  border: none !important;
-}
 
 /* 4️⃣ The White Background: Frosted Glass Effect */
 /* This ensures your portfolio content is clear and professional */
@@ -193,16 +155,4 @@ body::before {
   color: #333 !important;                       /* Ensures text stays dark/readable */
 }
 
-/* 5️⃣ Animation Keyframes */
-@keyframes gradientMove {
-  0%   { background-position: 0% 50%; }
-  50%  { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
 
-/* 6️⃣ Sidebar Link Fix (Optional) */
-/* Makes sure the links in your sidebar are still dark enough to read */
-.sidebar a {
-  color: #1a2a6c !important;
-  font-weight: bold;
-}
