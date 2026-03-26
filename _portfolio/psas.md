@@ -4,6 +4,7 @@ excerpt: "Contributed to the development of an open-source CubeSat as part of th
 image: /images/psas/oresat.png
 collection: portfolio
 ---
+<a href="/portfolio/" class="back-button">← Back to Projects</a>
 
 ## Overview
 I work in the firmware and electrical teams Contributeing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
