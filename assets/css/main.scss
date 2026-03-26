@@ -134,12 +134,18 @@ h1, h2, h3 {
 html, body {
   height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 body {
   background: linear-gradient(270deg, #ff7e5f, #feb47b, #6a11cb, #2575fc);
   background-size: 400% 400%;
   animation: gradientMove 15s ease infinite;
+}
+
+/* Make sure content containers are transparent */
+main, section, div {
+  background-color: transparent;
 }
 
 @keyframes gradientMove {
