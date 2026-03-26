@@ -5,7 +5,7 @@ excerpt: "Smart flashlight with mutliple LEDs, strobscope function, morse code o
 image: /images/flashlight/flashlight-photo.png
 
 ---
-
+<a href="/portfolio/" class="back-button">← Back to Projects</a>
 ## Overview
 This project is a programmable flashlight that is designed to be more versatile and functional than a standard flashlight. It was sponsored by the Electronics Prototyping Lab (EPL) at PSU and will be kept as lab equipment. Unlike typical flashlights, this device allows for the user to adjust brightness levels, switch between multiple colors, operate in strobe mode as a stroboscope, and output morse code. 
 The goal of this flashlight is to create a compact, user-friendly tool that can adapt to different environments and needs, such as emergency situations, measuring rotating objects, outdoor activities, and general everyday use. By integrating programmable controls, the flashlight provides flexibility without needing multiple other devices. 
