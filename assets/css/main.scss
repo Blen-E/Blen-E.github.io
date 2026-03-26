@@ -130,48 +130,68 @@ h1, h2, h3 {
 .back-button:hover {
   text-decoration: underline;
 }
-/* ============================= */
-/* Full-page animated gradient   */
-/* ============================= */
+/* ============================================================ */
+/* FULL-PAGE ANIMATED GRADIENT (FIXED FOR MINIMAL MISTAKES)     */
+/* ============================================================ */
 
-/* 1️⃣ Reset and ensure the base layer is ready */
+/* 1️⃣ Base Setup: Ensure the site container is transparent */
 html, body {
   margin: 0;
   padding: 0;
-  min-height: 100%; 
-  /* Removing background: transparent; here as body::before handles the color */
+  background-color: transparent !important;
 }
 
-/* 2️⃣ The Background Layer */
+/* 2️⃣ The Gradient Layer: Fixed to the background */
 body::before {
   content: "";
-  position: fixed;     /* Keeps it locked to the viewport */
+  position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;        /* Use viewport width */
-  height: 100vh;       /* Use viewport height */
-  z-index: -10;        /* Push it to the absolute bottom */
-  
+  width: 100vw;
+  height: 100vh;
+  z-index: -10; /* Keeps it behind everything */
   background: linear-gradient(270deg, #ff7e5f, #feb47b, #6a11cb, #2575fc);
   background-size: 400% 400%;
   animation: gradientMove 15s ease infinite;
-  
-  /* Prevents any weird white edges on mobile browsers */
-  pointer-events: none; 
+  pointer-events: none;
 }
 
-/* 3️⃣ The "Transparency" Fix */
-/* If your website still has white patches, it's likely because 
-   specific classes have background colors. This rule targets 
-   everything, but be careful—it might hide your card or button colors!
-*/
-#main, section, header, footer {
+/* 3️⃣ Transparency Fix: Remove white/black backgrounds from theme layers */
+/* This targets the main content, the wrapper, and the sidebars */
+#main, 
+.page, 
+.wrapper, 
+.initial-content, 
+.archive,
+.sidebar,
+.page__footer,
+.masthead {
   background: transparent !important;
+  background-color: transparent !important;
+  border: none !important; /* Removes thin grey lines between sections */
 }
 
-/* 4️⃣ Animation */
+/* 4️⃣ Readability Boost (Optional but Recommended) */
+/* This creates a "Glass" effect so your text stays readable 
+   over the moving colors. Remove this block if you want it 100% clear. */
+.page__content, .sidebar__inner {
+  background: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
+  backdrop-filter: blur(10px);           /* Blurs the gradient behind the text */
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+/* 5️⃣ Animation Keyframes */
 @keyframes gradientMove {
   0%   { background-position: 0% 50%; }
   50%  { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
+}
+
+/* 6️⃣ Fix for Mobile/Small Screens */
+@media (max-width: 768px) {
+  .page__content {
+    background: rgba(255, 255, 255, 0.8); /* Slightly more solid on mobile */
+  }
 }
