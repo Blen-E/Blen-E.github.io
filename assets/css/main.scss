@@ -131,17 +131,17 @@ h1, h2, h3 {
   text-decoration: underline;
 }
 /* ============================================================ */
-/* FULL-PAGE ANIMATED GRADIENT (FIXED FOR MINIMAL MISTAKES)     */
+/* BLUE & PURPLE ANIMATED GRADIENT + WHITE CONTENT AREAS        */
 /* ============================================================ */
 
-/* 1️⃣ Base Setup: Ensure the site container is transparent */
+/* 1️⃣ Base Setup: Clear out default backgrounds */
 html, body {
   margin: 0;
   padding: 0;
-  background-color: transparent !important;
+  background-color: white !important; /* Fallback */
 }
 
-/* 2️⃣ The Gradient Layer: Fixed to the background */
+/* 2️⃣ The Gradient Layer: Blue and Purple Palette */
 body::before {
   content: "";
   position: fixed;
@@ -149,15 +149,24 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: -10; /* Keeps it behind everything */
-  background: linear-gradient(270deg, #ff7e5f, #feb47b, #6a11cb, #2575fc);
+  z-index: -10;
+  
+  /* Cool Technical Palette: Deep Blues and Purples */
+  background: linear-gradient(
+    270deg, 
+    #1a2a6c, /* Deep Midnight Blue */
+    #b21f1f, /* A hint of deep plum/purple */
+    #6a11cb, /* Vibrant Violet */
+    #2575fc, /* Bright Electric Blue */
+    #4facfe  /* Soft Sky Blue */
+  );
+  
   background-size: 400% 400%;
   animation: gradientMove 15s ease infinite;
   pointer-events: none;
 }
 
-/* 3️⃣ Transparency Fix: Remove white/black backgrounds from theme layers */
-/* This targets the main content, the wrapper, and the sidebars */
+/* 3️⃣ Transparency Fix: Punch through the theme's solid layers */
 #main, 
 .page, 
 .wrapper, 
@@ -168,18 +177,20 @@ body::before {
 .masthead {
   background: transparent !important;
   background-color: transparent !important;
-  border: none !important; /* Removes thin grey lines between sections */
+  border: none !important;
 }
 
-/* 4️⃣ Readability Boost (Optional but Recommended) */
-/* This creates a "Glass" effect so your text stays readable 
-   over the moving colors. Remove this block if you want it 100% clear. */
+/* 4️⃣ The White Background: Frosted Glass Effect */
+/* This ensures your portfolio content is clear and professional */
 .page__content, .sidebar__inner {
-  background: rgba(255, 255, 255, 0.6); /* Semi-transparent white */
-  backdrop-filter: blur(10px);           /* Blurs the gradient behind the text */
-  padding: 20px;
-  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.85) !important; /* Mostly white, slightly see-through */
+  backdrop-filter: blur(8px);                    /* Blurs the gradient behind it */
+  -webkit-backdrop-filter: blur(8px);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);    /* Soft shadow for depth */
   margin-bottom: 20px;
+  color: #333 !important;                       /* Ensures text stays dark/readable */
 }
 
 /* 5️⃣ Animation Keyframes */
@@ -189,9 +200,9 @@ body::before {
   100% { background-position: 0% 50%; }
 }
 
-/* 6️⃣ Fix for Mobile/Small Screens */
-@media (max-width: 768px) {
-  .page__content {
-    background: rgba(255, 255, 255, 0.8); /* Slightly more solid on mobile */
-  }
+/* 6️⃣ Sidebar Link Fix (Optional) */
+/* Makes sure the links in your sidebar are still dark enough to read */
+.sidebar a {
+  color: #1a2a6c !important;
+  font-weight: bold;
 }
