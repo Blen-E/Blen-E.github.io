@@ -10,7 +10,7 @@
 main:
     
   - title: "Projects"
-    url: /portfolio/
+    url: /portfolio/index.html
     
   - title: "Resume"
     url: /resume/
