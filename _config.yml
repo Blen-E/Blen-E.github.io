@@ -23,7 +23,7 @@ repository               : "Blen-E/Blen-E.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Blen Ermias"
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineering student"
