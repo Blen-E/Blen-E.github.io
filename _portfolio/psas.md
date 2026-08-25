@@ -42,8 +42,35 @@ A "flatSat" is a an flat or open satellite that allows you to conduct system int
 - Research on OreSat connectors
 - Documentation via git
   
-### Flatsat breakout schematic and PCB
+<h3>Schematic Design</h3>
 
-### Flatsat table set up 
-   
+<div style="display: flex; gap: 20px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/flashlight/flashlight-schematic.png" width="100%">
+    <p>Schematic </p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/flashlight/flashlight-schematic2.png" width="100%">
+    <p>LED Driver Circuit</p>
+  </div>
+
+</div>
+
+   <h3>PCB Design</h3>
+
+<div style="display: flex; gap: 20px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/flashlight/flashlight-schematic.png" width="100%">
+    <p>Schematic </p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/flashlight/flashlight-schematic2.png" width="100%">
+    <p>LED Driver Circuit</p>
+  </div>
+
+</div>
 
