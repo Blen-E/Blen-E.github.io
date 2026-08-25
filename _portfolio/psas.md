@@ -48,16 +48,12 @@ A "flatSat" is a an flat or open satellite that allows you to conduct system int
 
   <div style="flex: 1; text-align: center;">
     <img src="/images/psas/flatsat-schematic1.png" width="100%">
-    <p>Schematic </p>
+    <p>Schematic</p>
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <img src="/images/psas/flatsat-pcb.png" width="85%">
+    <img src="/images/psas/flatsat-pcb.png" width="60%">
     <p>PCB final design</p>
   </div>
 
 </div>
-
-
-</div>
-
