@@ -58,6 +58,8 @@ A "flatSat" is a an flat or open satellite that allows you to conduct system int
 
 </div>
 
+### FlatSat setup
+![FlatSat setuo](/images/psas/setup.png)
 ---
 
 ## Zephyr RTOS Power Management implementation for CubSat project, OreSat1  
