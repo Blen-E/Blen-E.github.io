@@ -1,13 +1,13 @@
 ---
 title: "Portland State Aerospace Society (PSAS)"
-excerpt: "Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). The Portland State Aerospace Society (PSAS) is an interdisciplinary student group that designs, builds and flies ultra-low-cost and totally open source rockets, liquid-fuel rocket engines, satellites, and satellite ground stations. My work focuses on embedded systems, firmware development, and PCB design in a interdisciplinary splinary engineering environment."
+excerpt: "Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS).My work focuses on embedded systems, firmware development, and PCB design in a interdisciplinary splinary engineering environment."
 image: /images/psas/oresat.png
 collection: portfolio
 ---
 <a href="/portfolio/" class="back-button">← Back to Projects</a>
 
 ## Overview
-I work in the firmware and electrical teams contributing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
+I work in the firmware and electrical teams contributing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). The Portland State Aerospace Society (PSAS) is an interdisciplinary student group that designs, builds and flies ultra-low-cost and totally open source rockets, liquid-fuel rocket engines, satellites, and satellite ground stations. My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
 
 
 ## Summer Undergraduate Research 
