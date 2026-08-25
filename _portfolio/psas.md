@@ -13,7 +13,7 @@ I work in the firmware and electrical teams Contributeing to the development of 
 ## Summer Undergraduate Research 
 
 ### Overview
-Participated in undergraduate research at PSAS researching the Zephyr RTOS to program the NXP MCXN947 dev board. The MCU of this dev board would then be intergrated on multiple cards of the next CubeSat project, Oresat1. I presented this research at the PSU undergraduare research Sypnosium. 
+Participated in undergraduate research at PSAS researching the Zephyr RTOS to program the NXP MCXN947 dev board. The MCU of this dev board would then be integrated on multiple cards of the next CubeSat project, Oresat1. I presented this research at the PSU undergraduare research Sypnosium. 
 
 ### Contributions
 - Testing debugger compatability (Jlink, STlink debugger) with MCXN947 board 
@@ -32,13 +32,18 @@ Participated in undergraduate research at PSAS researching the Zephyr RTOS to pr
 
 ---
 
-## Flatsat Breakboard Project
+## FlatSat Breakout board project
 
 ### Overview
-A "flatsat" is a an flat or open satellite that allows you to conduct system integration, software development, testing, and debugging. I worked on schematic and PCB layout of the flatsat breakout board, a board that connects various flatsat boards together. 
+A "flatSat" is a an flat or open satellite that allows you to conduct system integration, software development, testing, and debugging. I worked on schematic and PCB layout of the flatsat breakout board, a board that connects various flatsat boards together. 
 
 ### Contributions
 - Schematic and PCB layout
-- Research on Oresat connectors
-- Documentation via git   
+- Research on OreSat connectors
+- Documentation via git
+  
+### Flatsat breakout schematic and PCB
+
+### Flatsat table set up 
+   
 
