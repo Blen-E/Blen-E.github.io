@@ -7,7 +7,7 @@ collection: portfolio
 <a href="/portfolio/" class="back-button">← Back to Projects</a>
 
 ## Overview
-I work in the firmware and electrical teams Contributeing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
+I work in the firmware and electrical teams contributeing to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS). My work focused on embedded systems, flight software concepts, and hardware development in a collaborative engineering environment.
 
 
 ## Summer Undergraduate Research 
@@ -42,35 +42,22 @@ A "flatSat" is a an flat or open satellite that allows you to conduct system int
 - Research on OreSat connectors
 - Documentation via git
   
-<h3>Schematic Design</h3>
+<h3>Schematic and PCB design</h3>
 
 <div style="display: flex; gap: 20px;">
 
   <div style="flex: 1; text-align: center;">
-    <img src="/images/flashlight/flashlight-schematic.png" width="100%">
+    <img src="/images/psas/flatsat-schematic1.png" width="100%">
     <p>Schematic </p>
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <img src="/images/flashlight/flashlight-schematic2.png" width="100%">
+    <img src="/images/psas/flatsat-pcb.png" width="100%">
     <p>LED Driver Circuit</p>
   </div>
 
 </div>
 
-   <h3>PCB Design</h3>
-
-<div style="display: flex; gap: 20px;">
-
-  <div style="flex: 1; text-align: center;">
-    <img src="/images/flashlight/flashlight-schematic.png" width="100%">
-    <p>Schematic </p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="/images/flashlight/flashlight-schematic2.png" width="100%">
-    <p>LED Driver Circuit</p>
-  </div>
 
 </div>
 
