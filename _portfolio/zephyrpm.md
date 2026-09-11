@@ -1,4 +1,11 @@
-## Zephyr RTOS Power Management implementation for CubSat project, OreSat1  
+---
+title: "Zephyr Power Management"
+excerpt: OreSat / PSAS
+excerpt: "Investigating Zephyr's power-management capabilities for reliable, power-efficient aerospace embedded systems using OreSat hardware and the NXP MCXN947."
+image: /images/psas/oresat.png
+collection: portfolio
+---
+<a href="/portfolio/" class="back-button">← Back to Projects</a>
 
 ### Overview
 This research investigates how Zephyr RTOS power-management strategies can reduce energy consumption in embedded systems, with the goal of improving the efficiency and reliability of power-constrained aerospace applications such as the CubeSat project OreSat1. 
