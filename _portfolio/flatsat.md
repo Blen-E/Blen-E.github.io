@@ -1,7 +1,7 @@
 ---
 title: "OreSat FlatSat Breakout Board"
 excerpt: "Designed a KiCad breakout board for OreSat1 to support CubeSat subsystem development, firmware testing, and hardware debugging."
-image: /images/psas/oresat.png
+image: /images/psas/flatsat-pcb.png
 collection: portfolio
 ---
 <a href="/portfolio/" class="back-button">← Back to Projects</a>
