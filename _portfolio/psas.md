@@ -1,6 +1,6 @@
 ---
-title: "Portland State Aerospace Society (PSAS)"
-excerpt: "Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS).My work focuses on embedded systems, firmware development, and PCB design in a interdisciplinary splinary engineering environment."
+title: "OreSat / Portland State Aerospace Society"
+excerpt: "Contributed to the development of an open-source CubeSat as part of the Portland State Aerospace Society (PSAS).My work focuses on embedded systems, firmware development, and PCB design in an interdisciplinary engineering environment."
 image: /images/psas/oresat.png
 collection: portfolio
 ---
