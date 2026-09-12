@@ -1,6 +1,6 @@
 ---
 title: "Smart Bathroom weight scale"
-date: 2026-05-01
+order: 5
 collection: portfolio
 excerpt: "A smart bathroom weight scale"
 image: /images/scale/scale-photo.png
