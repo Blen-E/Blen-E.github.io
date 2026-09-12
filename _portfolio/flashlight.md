@@ -1,6 +1,6 @@
 ---
 title: "Flashlight Project"
-date: 2026-06-01
+order: 4
 collection: portfolio
 excerpt: "Smart flashlight with mutliple LEDs, strobscope function, morse code output and more."
 image: /images/flashlight/flashlight-photo.png
