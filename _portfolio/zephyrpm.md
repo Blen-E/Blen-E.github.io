@@ -1,7 +1,7 @@
 ---
 title: "Zephyr Power Management | OreSat"
 order: 2
-excerpt: "Investigating Zephyr's power-management capabilities for reliable, power-efficient aerospace embedded systems using the OreSat protocard."
+excerpt: "Investigating Zephyr's power-management capabilities to develop reliable, energy-efficient aerospace firmware using the OreSat Protocard."
 image: /images/psas/oresat.png
 collection: portfolio
 ---
