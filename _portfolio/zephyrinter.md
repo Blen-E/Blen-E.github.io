@@ -1,6 +1,6 @@
 ---
 title: "Zephyr RTOS Integration | OreSat"
-date: 2026-09-01
+order: 1
 excerpt: "Developed and tested Zephyr RTOS applications on the NXP MCXN947 microcontroller for CubeSat Project OreSat."
 image: /images/psas/cubesat.png
 collection: portfolio
