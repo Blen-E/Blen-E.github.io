@@ -18,3 +18,4 @@ This research investigates how Zephyr RTOS power-management strategies can reduc
 - Developing and testing low-power embedded applications that enter sleep states, wake on timers, and measure the energy costs associated with power-state transitions.
 - Developing this research into an Honors Thesis and future technical publications, including conference and research work.
 
+![OreSat Protocard](/images/psas/protocard.png)
