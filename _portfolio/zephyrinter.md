@@ -2,7 +2,7 @@
 title: "Zephyr RTOS Integration"
 excerpt: OreSat / PSAS
 excerpt: "Developed and tested Zephyr RTOS applications on the NXP MCXN947 microcontroller for CubeSat Project OreSat."
-image: /images/psas/oresat.png
+image: /images/psas/cubesat.png
 collection: portfolio
 ---
 <a href="/portfolio/" class="back-button">← Back to Projects</a>
