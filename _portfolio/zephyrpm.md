@@ -1,11 +1,13 @@
 ---
-title: "Zephyr Power Management | OreSat"
+title: "Zephyr RTOS Power Management | OreSat"
 order: 2
 excerpt: "Investigating Zephyr's power-management capabilities to develop reliable, energy-efficient aerospace firmware using the OreSat Protocard."
 image: /images/psas/oresat.png
 collection: portfolio
 ---
 <a href="/portfolio/" class="back-button">← Back to Projects</a>
+
+## Developing Energy-Efficient Firmware for OreSat1 Using Zephyr RTOS
 
 ### Overview
 This research investigates how Zephyr RTOS power-management strategies can reduce energy consumption in embedded systems, with the goal of improving the efficiency and reliability of power-constrained aerospace applications such as the CubeSat project OreSat1. 
