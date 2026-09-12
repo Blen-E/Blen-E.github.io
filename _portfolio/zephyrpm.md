@@ -1,7 +1,7 @@
 ---
-title: "Zephyr Power Management | OreSat/ PSAS"
+title: "Zephyr Power Management | OreSat"
 order: 2
-excerpt: "Investigating Zephyr's power-management capabilities for reliable, power-efficient aerospace embedded systems using OreSat hardware and the NXP MCXN947."
+excerpt: "Investigating Zephyr's power-management capabilities for reliable, power-efficient aerospace embedded systems using the OreSat protocard."
 image: /images/psas/oresat.png
 collection: portfolio
 ---
